@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: "enhancement, good first issue, Enhancement \U0001F31F"
+labels: "Enhancement \U0001F31F, enhancement, good first issue"
 assignees: MeadhbhOHerlihy
 
 ---
